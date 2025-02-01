@@ -26,7 +26,7 @@ This design was built using **Figma**, incorporating modern UI/UX principles to 
 ---
 
 ## 🔗 View the Interactive Prototype  
-👉 [Click here to view the GM Cart prototype]([YOUR_PROTOTYPE_LINK](https://www.figma.com/proto/Ywp3V6LTpgBf1R344QDPrl/E-Commerce-App?node-id=0-1&t=UATx300nr0f9yQwc-1))  
+👉 [Click here to view the GM Cart prototype](https://www.figma.com/proto/Ywp3V6LTpgBf1R344QDPrl/E-Commerce-App?node-id=0-1&t=UATx300nr0f9yQwc-1)  
 
 ---
 
